@@ -1,3 +1,4 @@
+copy and paste into notepad
 =================|Gocodeit Answers|================
 - ts so ez, only use if ur genuinely stuck
 
